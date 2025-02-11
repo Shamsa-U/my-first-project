@@ -19,11 +19,7 @@ The Coding Club website is a landing page for parents and children looking for a
 
 ## Markdown Practice
 
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
 Building | a table | with markdown
 --- | --- | ---
-*italic* | **bold** | `inline code`
+*Italic text* | **Bold text** | `Inline code`
 42 | 400 | 97
